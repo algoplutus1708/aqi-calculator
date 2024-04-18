@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-# Java AQI Calculator
+# AQI Calculator
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.thanglequoc/aqi-calculator/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.thanglequoc/aqi-calculator)
 [![CodeFactor](https://www.codefactor.io/repository/github/thanglequoc/aqi-calculator/badge)](https://www.codefactor.io/repository/github/thanglequoc/aqi-calculator)
 
